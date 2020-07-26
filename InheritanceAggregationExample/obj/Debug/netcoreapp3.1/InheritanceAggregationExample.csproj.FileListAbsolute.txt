@@ -1,0 +1,11 @@
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\obj\Debug\netcoreapp3.1\InheritanceAggregationExample.csprojAssemblyReference.cache
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\obj\Debug\netcoreapp3.1\InheritanceAggregationExample.AssemblyInfoInputs.cache
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\obj\Debug\netcoreapp3.1\InheritanceAggregationExample.AssemblyInfo.cs
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.exe
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.deps.json
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.runtimeconfig.json
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.runtimeconfig.dev.json
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.dll
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\bin\Debug\netcoreapp3.1\InheritanceAggregationExample.pdb
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\obj\Debug\netcoreapp3.1\InheritanceAggregationExample.dll
+C:\Users\Gowtham\Documents\GitHub\Dot_Net_Core_Console_Apps\InheritanceAggregationExample\obj\Debug\netcoreapp3.1\InheritanceAggregationExample.pdb
