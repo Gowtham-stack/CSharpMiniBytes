@@ -17,7 +17,8 @@ namespace InheritanceAggregationExample
             Address MyAddress = new Address("7/3","Arimuthu Street",23);
             Employee employee = new Employee("yes","Gowtham","R",1,MyAddress);
             employee.IsMorningShift = "No";
-            Console.WriteLine($"Employee Details:\n{employee.FirstName}");
+            Console.WriteLine($"Employee Details:\nFirst Name -{employee.FirstName}");
+            Console.WriteLine("Last Name - {0}",employee.FirstName);
         }
     }
 
